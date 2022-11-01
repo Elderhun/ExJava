@@ -17,6 +17,7 @@ public class Q2 {
 
         int[] nArr = new int[0];
         try {
+
             if(first.length!=second.length){
                 throw new RuntimeException();
             }
